@@ -1,6 +1,5 @@
-# Nathan Kuipa – Projects Repository
+## Welcome to my GitHub 👋 
 
-Welcome to my GitHub 👋  
 I’m a student developer interested in **Robotics** and **Machine Learning** ever since I was a kid.  
 I build backend systems using **Django REST Framework (DRF)** and mobile UIs with **KivyMD**.  
 Most of my projects are **learning-based and practical**, focused on solving real problems step by step.  
