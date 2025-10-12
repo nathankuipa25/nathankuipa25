@@ -8,4 +8,7 @@ Feel free to explore or collaborate. Suggestions are always welcome ✅
 
 I always believe "**Having Limited Resources in Tech industry ain't a barrier to starting  bringing a change; start with what you have because one is atleast better than None.  If you start today you will never be the same by tomorrow**"
 
+I believe progress comes from **consistency, curiosity, and building step by step**.  
+**"Limited resources are not a barrier—start with what you have and improve daily."**
+
 **Nathan Kuipa**
