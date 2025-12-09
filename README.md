@@ -1,14 +1,1 @@
-## Welcome to my GitHub 👋 
-
-I’m an aspirant in **Robotics** and **Machine Learning** ever since I was a kid.  
-I also build backend systems using **Django REST Framework (DRF)** and mobile UIs with **KivyMD**.  
-Most of my projects are **learning-based and practical**, focused on solving real problems step by step.  
-I’m improving every day through **experiments, small projects, and consistency**.  
-Feel free to explore or collaborate. Suggestions are always welcome ✅
-
-I always believe "**Having Limited Resources in Tech industry ain't a barrier to starting  bringing a change; start with what you have because one is atleast better than None.  If you start today you will never be the same by tomorrow**"
-
-I believe progress comes from **consistency, curiosity, and building step by step**.  
-**"Limited resources are not a barrier—start with what you have and improve daily."**
-
-**Nathan Kuipa**
+*I’m a young developer passionate about robotics, automation, and intelligent systems. I love building smart, simple, and fast apps that solve real problems for everyday users. I’m always learning, exploring new technologies, and pushing myself to create meaningful digital experiences that make life easier and more connected.*
