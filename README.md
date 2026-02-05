@@ -1,2 +1,1 @@
 *I’m a young developer passionate about robotics, automation, and intelligent systems. I love building smart, simple, and fast apps that solve real problems for everyday users. I’m always learning, exploring new technologies, and pushing myself to create meaningful digital experiences that make life easier and more connected.*
-[![Check out nathankuipa25's profile on stardev.io](https://stardev.io/developers/nathankuipa25/badge/languages/global.svg)](https://stardev.io/developers/nathankuipa25)
